@@ -1,0 +1,4 @@
+C:\codebitsacademy\classworks\LabTask14\Question6\obj\Debug\netcoreapp3.1\Question6.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask14\Question6\obj\Debug\netcoreapp3.1\Question6.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask14\Question6\obj\Debug\netcoreapp3.1\Question6.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask14\Question6\obj\Debug\netcoreapp3.1\Question6.AssemblyInfo.cs
